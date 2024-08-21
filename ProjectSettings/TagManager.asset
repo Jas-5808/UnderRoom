@@ -4,28 +4,30 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - CinemachineTarget
+  - Flesh
+  - Water
+  - Zombie
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Stone
+  - 
   - Water
   - UI
-  - Player
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Zombie
+  - Interact
+  - BodyPart
+  - PlayerBody
+  - PlayerInvisible
+  - PostProcessing Main
+  - PostProcessing Arms
+  - CamExamination
+  - CamWeapon
+  - Ladder
+  - CamSecondExamination
+  - Threat
   - 
   - 
   - 

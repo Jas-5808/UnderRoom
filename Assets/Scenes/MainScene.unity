@@ -8261,6 +8261,21 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1015732921}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &758589302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 758589293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d94ef057cd674ec47a4af1bd18de2848, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  footstepAudioSource: {fileID: 0}
+  footstepClips: []
+  stepInterval: 0.5
 --- !u!1 &766121401
 GameObject:
   m_ObjectHideFlags: 0
@@ -11611,6 +11626,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 758589300}
+    - targetCorrespondingSourceObject: {fileID: 8616685848737228372, guid: c5efc39a8aaf6e64ea40e9ad573e9b47,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 758589302}
   m_SourcePrefab: {fileID: 100100000, guid: c5efc39a8aaf6e64ea40e9ad573e9b47, type: 3}
 --- !u!1001 &1017959717
 PrefabInstance:
